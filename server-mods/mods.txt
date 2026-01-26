@@ -5,24 +5,19 @@
 729726478   # Weapon Stats
 730745660   # AnTiMonster
 731220462   # Enhanced Storage
-731354142   # Improved Food Descriptions
 731659777   # Plantable Flowers
 732371478   # Shadowed Atmospheres
 732992186   # Memento Mori
 733119724   # (TanzLO) More Subtle Ore Glow
 734170655   # AnTiVegetation
-740385324   # Colony Deed Wiring
 740863523   # Legendary Tooltips
 751868467   # Magic Labels
 752112050   # BetterSleep
-753188786   # Named Saplings
-756729190   # Recipe Adjustment: Campfire to Kitchen
 784179199   # Outpost Nebula - Orion
 855130226   # Tentacle drop rates and cooking recipes
 885877773   # Parallax Compression (FPS Improvement)
 902555153   # Optimizebound
 907216757   # X Close-Button Fix For Old Mods
-1099450875  # Food Spoil Bars
 1107664957  # More threads - Lag reducer - 8-thread edition
 1117985463  # Improved Ship Encounter Descriptions
 1121701081  # Dynamic Fuel Hatch
@@ -32,6 +27,33 @@
 1824175379  # Novakid Codices
 # 1172856174  # Kelp Sapling Fix  # broken on multiplayer
 # 745573454   # Steambound reloaded - Automation, item transportation and much more!
+3400223391  # LR's Dynamic Equipment
+1262874923  # Bitcoin Mining Farms
+1119086325  # Many Tabs (1/2)
+956247051   # Many Tabs (2/2)
+739574452   # Wire I/O Node Position Fixer
+735909966   # Mini Village
+1361830298  # Rubber Boat
+733139672   # Earth's Finest - Crew Improvements
+1186075435  # Sticky Notes
+
+
+# Cooking / Food
+731354142   # Improved Food Descriptions
+1099450875  # Food Spoil Bars
+756729190   # Recipe Adjustment: Campfire to Kitchen
+3646731576  # All Fed Up
+743161560   # Refrigerated Container
+744736908   # Restful Tents - No Hunger Loss in Tents
+733026012   # Cannedfood Recipes and Stove
+731538310   # Craftable Bottled Healing Water
+735371027   # Barrel Fire Cooking
+731592371   # Ceiling Mounted Sprinkler
+747535471   # Recipes for preservation
+730363398   # Efficient Watering
+731354142   # Improved Food Descriptions
+753188786   # Named Saplings
+
 
 # Microdungeons
 980158043   # Small wine Cellar
@@ -46,6 +68,11 @@
 1151130209  # The "Flaming Hot" microduneon six pack
 1161083233  # The "Permafrost" microdungeon six pack
 1242288129  # Fabmats Christmaspack
+1488955017  # Rogues Out Camping
+2979678524  # Super Dungeon Pack
+2009744270  # Galactic Dungeons
+2010914574  # Galactic Dungeons + More Planet Info
+
 
 731683297   # Enhanced Party Interface
 737027388   # Enhanced Chat Readability
@@ -55,6 +82,7 @@
 1117007107  # More Planet Info
 1761193918  # More Planet Info Lush Planet fix
 1772643711  # [More Planet Info] 1.4 Quest Marker Fix
+
 
 # Instruments
 747345375   # Musical Merchants
@@ -66,5 +94,26 @@
 1137869485  # Tenor Drum Kit Instrument
 1601371427  # John Denver's Country Roads Full song for instruments
 
+
 946227505   # DigitalStorage
 1189065705  # HLib (for DigitalStorage)
+
+
+# Colonies
+740385324   # Colony Deed Wiring
+1405753979  # The Tenantator: Deed & Tenant Management Tool
+
+
+# Weapons
+1059492599  # Stolte Inc. Machine Guns
+1330825914  # Stolte Inc. Crossbows
+1162728224  # Stolte Inc. Pulse Rifles
+1082642621  # Stolte Inc. Energy Weapons
+1340764283  # Stolte Inc. Longswords
+758365731   # God Dame Revolvers
+752680238   # God Dame Weapon Names
+753785891   # God Dame SMGs
+756506894   # God Dame Battle Rifles
+757827721   # God Dame Flamethrowers
+757158576   # God Dame Anti-Material Rifles
+776078151   # Flare Gun
