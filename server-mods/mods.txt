@@ -1,11 +1,8 @@
 729422192   # Inventory Interface Redone
-729428280   # Gardenbot2 : Reboot Edition
 729532886   # Universal Uncrafter
 729726251   # Faster Warp
-729726478   # Weapon Stats
 730745660   # AnTiMonster
 731220462   # Enhanced Storage
-731659777   # Plantable Flowers
 732371478   # Shadowed Atmospheres
 732992186   # Memento Mori
 733119724   # (TanzLO) More Subtle Ore Glow
@@ -14,7 +11,6 @@
 751868467   # Magic Labels
 752112050   # BetterSleep
 784179199   # Outpost Nebula - Orion
-855130226   # Tentacle drop rates and cooking recipes
 885877773   # Parallax Compression (FPS Improvement)
 902555153   # Optimizebound
 907216757   # X Close-Button Fix For Old Mods
@@ -36,9 +32,22 @@
 1361830298  # Rubber Boat
 733139672   # Earth's Finest - Crew Improvements
 1186075435  # Sticky Notes
+2010607826  # Betabound!
+1543219534  # ^ Starbound Patch Project
+3242163103  # ^ nuggubs' Vanilla Texture Tweak Pack
+3277732237  # ^ nVTTP - Mod Compat Patch
+3130082417  # ^ Collection numberer
+3038555770  # Vanilla Loading Menu (Betabound)
+3168570392  # No Fuel Scaling (Betabound)
+945393508   # 100% Boss Uniques Drop Rate
+3473429375  # Galactic Almanach - Biome Name Display
+3652615422  # Immersive Erchius Facility Loot
+745399025   # bk3k Pipes flow
 
 
-# Cooking / Food
+# Cooking / Food / Farming
+729428280   # Gardenbot2 : Reboot Edition
+731659777   # Plantable Flowers
 731354142   # Improved Food Descriptions
 1099450875  # Food Spoil Bars
 756729190   # Recipe Adjustment: Campfire to Kitchen
@@ -53,6 +62,8 @@
 730363398   # Efficient Watering
 731354142   # Improved Food Descriptions
 753188786   # Named Saplings
+855130226   # Tentacle drop rates and cooking recipes
+2574257768  # Growing Trays!
 
 
 # Microdungeons
@@ -72,6 +83,19 @@
 2979678524  # Super Dungeon Pack
 2009744270  # Galactic Dungeons
 2010914574  # Galactic Dungeons + More Planet Info
+3432298312  # Cultist Lair Dungeon
+2829110885  # Chessboard Microdungeon
+2729175627  # Scientist Shelter Microdungeon
+1186292267  # Dark's Dungeon and Villages
+2380700372  # Less Dead Moons - Moon Dungeons
+2233339365  # Winter Planet Pack
+2587899098  # Overgrown Planets
+1973038872  # Hallowed Planets: LEGACY
+2548371664  # Divine Planet
+2582440502  # Grassland Planet
+2157200368  # Starry Planets: LEGACY
+2329389933  # Hypothermic Planets
+1390490083  # More NPC Ships
 
 
 731683297   # Enhanced Party Interface
@@ -82,6 +106,7 @@
 1117007107  # More Planet Info
 1761193918  # More Planet Info Lush Planet fix
 1772643711  # [More Planet Info] 1.4 Quest Marker Fix
+3269792617  # Planet Search
 
 
 # Instruments
@@ -93,6 +118,8 @@
 1137865204  # Sitar Instrument
 1137869485  # Tenor Drum Kit Instrument
 1601371427  # John Denver's Country Roads Full song for instruments
+729586390   # Archer's Synthesizers
+3651333096  # Craftable Music Players (Betabound)
 
 
 946227505   # DigitalStorage
@@ -102,18 +129,44 @@
 # Colonies
 740385324   # Colony Deed Wiring
 1405753979  # The Tenantator: Deed & Tenant Management Tool
+838356389   # Tenant Pack
 
 
 # Weapons
+729726478   # Weapon Stats
 1059492599  # Stolte Inc. Machine Guns
 1330825914  # Stolte Inc. Crossbows
 1162728224  # Stolte Inc. Pulse Rifles
 1082642621  # Stolte Inc. Energy Weapons
+886906211   # Stolte Inc. Handcannons
 1340764283  # Stolte Inc. Longswords
+1340747742  # Stolte Inc. Shields
+2278534083  # Iron Assault Rifle Replacer
 758365731   # God Dame Revolvers
 752680238   # God Dame Weapon Names
 753785891   # God Dame SMGs
 756506894   # God Dame Battle Rifles
 757827721   # God Dame Flamethrowers
 757158576   # God Dame Anti-Material Rifles
+758984620   # God Dame DMRs
+761028622   # God Dame Railguns
+762389116   # God Dame Crossbows
+739563813   # Plasma Gun Collection
+2825501377  # Void Eye's Chain Guns
+1399203999  # The Minigun Mod
+2501977021  # The Ol' Schooler
+1399879140  # More Grenade Launchers!
+1344380903  # High Tech Weaponry: Quantum Laser Cannon
+1230171460  # Swords Unite: Violium Katana
+1238068032  # Swords Unite: Ferozium Katana
+1229144124  # Swords Unite: Solarium Saber
+1632807184  # Procedural Katanas
+1453188949  # WEAPON.pak (Energy Swords)
+1514144796  # Violium Fists
+2698975190  # The Forge: Outback Survival Kit
+1992585930  # Randomly Generated Bows
 776078151   # Flare Gun
+739110826   # Weighted Grappling Hook
+960709327   # Flashlight Attachment for Weighted Grappling Hook
+1114913297  # Flashlight Attachment for NORMAL Grappling Hook
+3544436396  # Transfiguration Gun
