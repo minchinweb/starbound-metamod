@@ -43,6 +43,7 @@
 3473429375  # Galactic Almanach - Biome Name Display
 3652615422  # Immersive Erchius Facility Loot
 745399025   # bk3k Pipes flow
+1774342649  # Healing Tank
 
 
 # Cooking / Food / Farming
@@ -119,11 +120,24 @@
 1137869485  # Tenor Drum Kit Instrument
 1601371427  # John Denver's Country Roads Full song for instruments
 729586390   # Archer's Synthesizers
-3651333096  # Craftable Music Players (Betabound)
+# 3651333096  # Craftable Music Players (Betabound)
+1354248533  # Music Collection
+729427264   # ^ Extended Songbook
+
+
+# Music
+737195784   # Missing Music Addition [Official Soundtrack]
+1137228707  # Western music pack for deserts.
+2819304031  # Weep not, my child Music addon
 
 
 946227505   # DigitalStorage
-1189065705  # HLib (for DigitalStorage)
+1189065705  # ^ HLib
+2919830263  # DigitalCrafting
+2919826588  # ^ HLibPlus
+2920451118  # DigitalCraftingGrowingTrays
+2920302450  # DigitalCraftingUniversalUncrafter
+2920040002  # DigitalCraftingBetabound
 
 
 # Colonies
