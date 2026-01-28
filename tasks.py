@@ -245,13 +245,16 @@ def copy_mods_to_server(
 
     # check destination folder
     if destination.exists():
-        # test if folder is empty
-        if list(destination.rglob("*")):
+        # test if folder is empty, other than a "mods.txt" file
+        other_files = set(destination.rglob("*")) - set(destination.rglob("mods.txt"))
+        if other_files:
             print("Destination Folder: {}Exists, Not Empty{}".format(YELLOW, RESET_ALL))
             print("    {}".format(destination.resolve()))
             ans = text.query_yes_no("    Empty Folder?", default="no")
             if ans == text.Answers.YES:
-                winshell.delete_file(destination.rglob("*"), silent=True)
+                for x in other_files:
+                    winshell.delete_file(str(x.resolve()), silent=True)
+
         else:
             print("Destination Folder: {}Exists, Empty{}!".format(GREEN, RESET_ALL))
     else:
