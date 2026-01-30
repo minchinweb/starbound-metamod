@@ -21,12 +21,13 @@
 1301992771  # Taehl's Teleport Beams
 1703567517  # Balanced Asteroids
 1824175379  # Novakid Codices
-# 1172856174  # Kelp Sapling Fix  # broken on multiplayer
 # 745573454   # Steambound reloaded - Automation, item transportation and much more!
 3400223391  # LR's Dynamic Equipment
 1262874923  # Bitcoin Mining Farms
 1119086325  # Many Tabs (1/2)
-956247051   # Many Tabs (2/2)
+956247051   # ^ Many Tabs (2/2)
+2248892900  # [Many Tabs] Handcrafting Expansion (1/2)
+2248893812  # ^ [Many Tabs] Handcrafting Expansion (2/2)
 739574452   # Wire I/O Node Position Fixer
 735909966   # Mini Village
 1361830298  # Rubber Boat
@@ -40,10 +41,21 @@
 3038555770  # Vanilla Loading Menu (Betabound)
 3168570392  # No Fuel Scaling (Betabound)
 945393508   # 100% Boss Uniques Drop Rate
-3473429375  # Galactic Almanach - Biome Name Display
 3652615422  # Immersive Erchius Facility Loot
 745399025   # bk3k Pipes flow
 1774342649  # Healing Tank
+3494479470  # Better Environment Hazards
+3516850077  # Less Awful Mech Drones
+3503825442  # Status Effect Objects
+3503826647  # Dynamic Status Effect Objects
+2618753389  # Craftable wind chimes
+1289681395  # Mech Battery Warning
+2440281893  # Fix 'Protect NPC' quest
+2960006717  # Lit Tents
+# 1589121567  # Better (C) Main Menu
+1589455236  # Better (C) Mods Window
+732371478   # Shadowed Atmospheres
+2419330775  # Peacekeeper Space Station Teleporters
 
 
 # Cooking / Food / Farming
@@ -51,7 +63,8 @@
 731659777   # Plantable Flowers
 731354142   # Improved Food Descriptions
 1099450875  # Food Spoil Bars
-756729190   # Recipe Adjustment: Campfire to Kitchen
+# 756729190   # Recipe Adjustment: Campfire to Kitchen
+2452189268  # Campfire Tab for Kitchen Counters
 3646731576  # All Fed Up
 743161560   # Refrigerated Container
 744736908   # Restful Tents - No Hunger Loss in Tents
@@ -65,9 +78,12 @@
 753188786   # Named Saplings
 855130226   # Tentacle drop rates and cooking recipes
 2574257768  # Growing Trays!
+# 1172856174  # Kelp Sapling Fix  # broken on multiplayer
+1199608652  # Aging Alien Alcohols
+1636723841  # + Aging Alien Alcohol Ad
 
 
-# Microdungeons
+# Microdungeons / Planet Types
 980158043   # Small wine Cellar
 1002304970  # Green Hills microdungeon six-pack
 1038933028  # "Creepy Cultists" microdungeon six-pack
@@ -89,6 +105,7 @@
 2729175627  # Scientist Shelter Microdungeon
 1186292267  # Dark's Dungeon and Villages
 2380700372  # Less Dead Moons - Moon Dungeons
+3476076418  # Belter Dungeons
 2233339365  # Winter Planet Pack
 2587899098  # Overgrown Planets
 1973038872  # Hallowed Planets: LEGACY
@@ -104,10 +121,15 @@
 1276739133  # Improved Chat Bar
 1812329954  # Radio message retexture
 
+
+# Information Display
 1117007107  # More Planet Info
-1761193918  # More Planet Info Lush Planet fix
-1772643711  # [More Planet Info] 1.4 Quest Marker Fix
+1761193918  # + More Planet Info Lush Planet fix
+1772643711  # + [More Planet Info] 1.4 Quest Marker Fix
+2600581811  # + MPI Fixes
+2554385889  # + More Planet Info: Biome Fix
 3269792617  # Planet Search
+3473429375  # Galactic Almanach - Biome Name Display
 
 
 # Instruments
@@ -184,3 +206,24 @@
 960709327   # Flashlight Attachment for Weighted Grappling Hook
 1114913297  # Flashlight Attachment for NORMAL Grappling Hook
 3544436396  # Transfiguration Gun
+
+
+# Furniture / Clothes
+1635522739  # More Outpost Objects
+1543782525  # More Teleportz
+792823395   # Nostalgic Greenery (FU-dependent Version)
+1628020624  # Skittle's Mega Crafter
+1293306288  # + Batman n Bruce
+1262375447  # + Beta Stuff
+1132431069  # + Gothic Outfit Pack
+1115847299  # + Grand Protector Robe
+1123849636  # + Scientist Outfit Pack
+1327702382  # + Maid n Butler Outfits
+1703743522  # + Pirate Pack
+1722987773  # + Dresses n Skirts Pack
+1857537129  # + Suits n Stuff Pack
+2027138808  # + Virus Panic Gear
+2118816419  # + Wings and Things
+2637639946  # + Star Trek Stuff
+2731254952  # + Chef Gear
+2948518200  # + Skittles Bobs n Weaves

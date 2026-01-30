@@ -1,0 +1,125 @@
+# For Frackin Universe
+
+# FU server mod list -- https://steamcommunity.com/sharedfiles/filedetails/?id=1101449362
+
+# FU (core)
+729480149   # Frackin' Universe
+1264107917  # + Frackin' Interface
+821455287   # + Frackin' Action Bars (x4)
+1240923709  # + Frackin Xmas
+2638453727  #   + Xmas fix
+729492703   # + Frackin' Music
+1563376005  # Shellguard: Starbound Expansion Remastered
+1686763043  # + FU / Shellguard Mech Compatability
+
+882900100   # bk3k's Inventory
+2799920138  # + BK3K-Various Mods Compatibility
+3032664993  #   + BK3K-Various Mods Compatibility Addon
+731220462   # Enhanced Storage
+2155713859  # + Enhanced Storage Patch
+2512589532  # Stardust Core Lite (aka Quickbar Mini)
+
+730544933   # AnTiHair
+730745660   # AnTiMonster
+734170655   # AnTiVegetation
+
+729444820   # Macrochip
+1923815089  # + Macrochip Patch
+2373239106  # Day & Night Sensor, Fixed for FU
+
+1107664957  # More threads - Lag reducer - 8-thread edition
+1262874923  # Bitcoin Mining Farms
+1186075435  # Sticky Notes
+# 1361830298  # Rubber Boat
+# 1774342649  # Healing Tank
+
+
+# Dungeons / Planets
+1117007107  # More Planet Info (work with 1.4.X not guaranteed)
+1772643711  # + [More Planet Info] 1.4 Quest Marker Fix
+2141522956  # + Frackin Universe: More Planet Info Official Patch
+1639501560  # + More Planet Info - FU Patch
+1733755757  # + More Planet Info- Saturnians Addon
+2600581811  # + MPI Fixes
+3269792617  # Planet Search
+# 3473429375  # Galactic Almanach - Biome Name Display
+957141435   # Custom Space Station Rooms - Freely Buildable Expansion Areas
+2419330775  # Peacekeeper Space Station Teleporters
+
+
+# Food
+1199608652  # Aging Alien Alcohols
+1636723841  # + Aging Alien Alcohol Addon
+729427436   # Food Stack
+729428280   # Gardenbot2 : Reboot Edition
+
+
+# Furniture / Clothes
+1635522739  # More Outpost Objects
+1543782525  # More Teleportz
+792823395   # Nostalgic Greenery (FU-dependent Version)
+1628020624  # Skittle's Mega Crafter
+1293306288  # + Batman n Bruce
+1262375447  # + Beta Stuff
+1132431069  # + Gothic Outfit Pack
+1115847299  # + Grand Protector Robe
+1123849636  # + Scientist Outfit Pack
+1327702382  # + Maid n Butler Outfits
+1703743522  # + Pirate Pack
+1722987773  # + Dresses n Skirts Pack
+1857537129  # + Suits n Stuff Pack
+2027138808  # + Virus Panic Gear
+2118816419  # + Wings and Things
+2637639946  # + Star Trek Stuff
+2731254952  # + Chef Gear
+2948518200  # + Skittles Bobs n Weaves
+
+
+# Races (and supports)
+# https://frackinuniverse.miraheze.org/wiki/Races
+729558042   # Avali (Triage) Race Mod
+1432794738  # + avali camps on frackin' planets
+2052758462  # + FU + Avali Triage Patch
+850109963   # Elithian Races Mod
+1429652829  # + Elithian Races Mod: Frackin Universes Patch
+2375270402  # + Frackin' Universe - Elithian BYOS Ships
+1109772923  # Neko Alternate
+1300828186  # Playable Cats Redux - The Tiknass'uut
+1103027918  # The Saturnians (Moths)
+2260667955  # The Sharkkin - Shark Race Mod
+2262354081  # + Sharkkin FU Patch
+2410311754  # Snugget Race
+2611501999  # Neki
+2632319634  # + NekiFU
+3095436865  # + NekiStorage (for Enhanced Storage for ship locker)
+2917872802  # + NekiFloofSFW
+774083065   # Callistan Race Mod
+1478679200  # + Callistan Shiplocker Fix
+779096734   # Lamia Race
+1396610566  # Kitsune Race
+1371648124  # ^ MkioTNT Workshop
+1519251821  # + Kitsune Frackin' Universe Patch
+1813067420  # + Better Tails for Kitsune
+1164332913  # Arachne Race (spiders)
+740694177   # Argonian Race Redux
+813797002   # + Argonian Race Redux Supplemental
+732452461   # Bunnykin Race
+729429063   # Felin
+729432341   # The Orcana
+2191906942  # Spirit Tree Race
+1922334014  # Remorian Race Mod
+# 2740791476  # The NostOS Race
+# 2746742702  # + NostOS - BYOS Addon
+1411331676  # FU/ztarbound S.A.I.L. Modded Race Support
+1194878261  # [OFFICIAL] FU BYOS Modded Race Patch
+
+# Instruments
+747345375   # Musical Merchants
+749333935   # Model M
+756348717   # French Horn Instrument
+911689682   # Kazoo
+1137061063  # Harpsichord Instrument
+1137865204  # Sitar Instrument
+1137869485  # Tenor Drum Kit Instrument
+1601371427  # John Denver's Country Roads Full song for instruments
+729586390   # Archer's Synthesizers
