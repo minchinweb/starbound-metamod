@@ -12,6 +12,7 @@
 1563376005  # Shellguard: Starbound Expansion Remastered
 1686763043  # + FU / Shellguard Mech Compatability
 
+
 882900100   # bk3k's Inventory
 2799920138  # + BK3K-Various Mods Compatibility
 3032664993  #   + BK3K-Various Mods Compatibility Addon
@@ -23,18 +24,32 @@
 730745660   # AnTiMonster
 734170655   # AnTiVegetation
 
-729444820   # Macrochip
-1923815089  # + Macrochip Patch
-2373239106  # Day & Night Sensor, Fixed for FU
-
 1107664957  # More threads - Lag reducer - 8-thread edition
 1262874923  # Bitcoin Mining Farms
 1186075435  # Sticky Notes
-# 1361830298  # Rubber Boat
 # 1774342649  # Healing Tank
+782825930   # Protector Icons
+2602467135  # Glitch Augment (FU Addon)
 
 
-# Dungeons / Planets
+# Cooking / Food / Farming
+1199608652  # Aging Alien Alcohols
+1636723841  # + Aging Alien Alcohol Addon
+729427436   # Food Stack
+729428280   # Gardenbot2 : Reboot Edition
+2452189268  # Campfire Tab for Kitchen Counters
+
+
+# Microdungeons / Planet Types
+957141435   # Custom Space Station Rooms - Freely Buildable Expansion Areas
+2419330775  # Peacekeeper Space Station Teleporters
+
+
+# Interface
+# 3473429375  # Galactic Almanach - Biome Name Display
+
+
+# Information Display
 1117007107  # More Planet Info (work with 1.4.X not guaranteed)
 1772643711  # + [More Planet Info] 1.4 Quest Marker Fix
 2141522956  # + Frackin Universe: More Planet Info Official Patch
@@ -42,16 +57,27 @@
 1733755757  # + More Planet Info- Saturnians Addon
 2600581811  # + MPI Fixes
 3269792617  # Planet Search
-# 3473429375  # Galactic Almanach - Biome Name Display
-957141435   # Custom Space Station Rooms - Freely Buildable Expansion Areas
-2419330775  # Peacekeeper Space Station Teleporters
 
 
-# Food
-1199608652  # Aging Alien Alcohols
-1636723841  # + Aging Alien Alcohol Addon
-729427436   # Food Stack
-729428280   # Gardenbot2 : Reboot Edition
+# Instruments
+747345375   # Musical Merchants
+749333935   # Model M
+756348717   # French Horn Instrument
+911689682   # Kazoo
+1137061063  # Harpsichord Instrument
+1137865204  # Sitar Instrument
+1137869485  # Tenor Drum Kit Instrument
+1601371427  # John Denver's Country Roads Full song for instruments
+729586390   # Archer's Synthesizers
+
+
+# Music
+
+
+# Colonies
+
+
+# Weapons
 
 
 # Furniture / Clothes
@@ -73,6 +99,16 @@
 2637639946  # + Star Trek Stuff
 2731254952  # + Chef Gear
 2948518200  # + Skittles Bobs n Weaves
+
+
+# Wiring / Rails
+729444820   # Macrochip
+1923815089  # + Macrochip Patch
+2373239106  # Day & Night Sensor, Fixed for FU
+
+
+# Mechs / Vehicles
+# 1361830298  # Rubber Boat
 
 
 # Races (and supports)
@@ -108,18 +144,13 @@
 729432341   # The Orcana
 2191906942  # Spirit Tree Race
 1922334014  # Remorian Race Mod
+1694719307  # Merrkin (unknown FU support)
+1695451017  # + Merr-kin Scale Colours Sisters
+2604255131  # K'Rakoth Mod
+2605267672  # + K'Rakoth Mod: Frackin' Universe Addon
+3607022174  # + K'Rakoth Mod: Elithian Races Mod Patch
+2864852527  # + K'Rakoth Mod: Many Tabs Patch
 # 2740791476  # The NostOS Race
 # 2746742702  # + NostOS - BYOS Addon
 1411331676  # FU/ztarbound S.A.I.L. Modded Race Support
 1194878261  # [OFFICIAL] FU BYOS Modded Race Patch
-
-# Instruments
-747345375   # Musical Merchants
-749333935   # Model M
-756348717   # French Horn Instrument
-911689682   # Kazoo
-1137061063  # Harpsichord Instrument
-1137865204  # Sitar Instrument
-1137869485  # Tenor Drum Kit Instrument
-1601371427  # John Denver's Country Roads Full song for instruments
-729586390   # Archer's Synthesizers

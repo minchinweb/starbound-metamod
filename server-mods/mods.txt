@@ -1,36 +1,30 @@
-729422192   # Inventory Interface Redone
 729532886   # Universal Uncrafter
 729726251   # Faster Warp
 730745660   # AnTiMonster
+736752766   # Monster Part Mod Pack
 731220462   # Enhanced Storage
 732371478   # Shadowed Atmospheres
 732992186   # Memento Mori
 733119724   # (TanzLO) More Subtle Ore Glow
 734170655   # AnTiVegetation
-740863523   # Legendary Tooltips
-751868467   # Magic Labels
+751868467   # Magic Labels (on containers)
 752112050   # BetterSleep
 784179199   # Outpost Nebula - Orion
 885877773   # Parallax Compression (FPS Improvement)
 902555153   # Optimizebound
 907216757   # X Close-Button Fix For Old Mods
 1107664957  # More threads - Lag reducer - 8-thread edition
-1117985463  # Improved Ship Encounter Descriptions
 1121701081  # Dynamic Fuel Hatch
 1296666565  # Heartbeat
 1301992771  # Taehl's Teleport Beams
 1703567517  # Balanced Asteroids
 1824175379  # Novakid Codices
+1816413438  # Cut Content - Hiraki Corale Codices
+2799253990  # + Hiraki Corale Codex Tab
 # 745573454   # Steambound reloaded - Automation, item transportation and much more!
-3400223391  # LR's Dynamic Equipment
+3400223391  # LR's Dynamic Equipment (salvage and upgrade weapons)
 1262874923  # Bitcoin Mining Farms
-1119086325  # Many Tabs (1/2)
-956247051   # ^ Many Tabs (2/2)
-2248892900  # [Many Tabs] Handcrafting Expansion (1/2)
-2248893812  # ^ [Many Tabs] Handcrafting Expansion (2/2)
-739574452   # Wire I/O Node Position Fixer
 735909966   # Mini Village
-1361830298  # Rubber Boat
 733139672   # Earth's Finest - Crew Improvements
 1186075435  # Sticky Notes
 2010607826  # Betabound!
@@ -45,32 +39,29 @@
 745399025   # bk3k Pipes flow
 1774342649  # Healing Tank
 3494479470  # Better Environment Hazards
-3516850077  # Less Awful Mech Drones
 3503825442  # Status Effect Objects
 3503826647  # Dynamic Status Effect Objects
 2618753389  # Craftable wind chimes
-1289681395  # Mech Battery Warning
 2440281893  # Fix 'Protect NPC' quest
 2960006717  # Lit Tents
-# 1589121567  # Better (C) Main Menu
-1589455236  # Better (C) Mods Window
 732371478   # Shadowed Atmospheres
 2419330775  # Peacekeeper Space Station Teleporters
+782825930   # Protector Icons
 
 
 # Cooking / Food / Farming
 729428280   # Gardenbot2 : Reboot Edition
+# 756729190   # Recipe Adjustment: Campfire to Kitchen
+2452189268  # Campfire Tab for Kitchen Counters
+735371027   # Barrel Fire Cooking
 731659777   # Plantable Flowers
 731354142   # Improved Food Descriptions
 1099450875  # Food Spoil Bars
-# 756729190   # Recipe Adjustment: Campfire to Kitchen
-2452189268  # Campfire Tab for Kitchen Counters
 3646731576  # All Fed Up
 743161560   # Refrigerated Container
 744736908   # Restful Tents - No Hunger Loss in Tents
 733026012   # Cannedfood Recipes and Stove
 731538310   # Craftable Bottled Healing Water
-735371027   # Barrel Fire Cooking
 731592371   # Ceiling Mounted Sprinkler
 747535471   # Recipes for preservation
 730363398   # Efficient Watering
@@ -114,12 +105,23 @@
 2157200368  # Starry Planets: LEGACY
 2329389933  # Hypothermic Planets
 1390490083  # More NPC Ships
+2419330775  # Peacekeeper Space Station Teleporters
 
 
+# Interface
+729422192   # Inventory Interface Redone
+740863523   # Legendary Tooltips
+1119086325  # Many Tabs (1/2)
+956247051   # ^ Many Tabs (2/2)
+2248892900  # [Many Tabs] Handcrafting Expansion (1/2)
+2248893812  # ^ [Many Tabs] Handcrafting Expansion (2/2)
+# 1589121567  # Better (C) Main Menu
+1589455236  # Better (C) Mods Window
 731683297   # Enhanced Party Interface
 737027388   # Enhanced Chat Readability
 1276739133  # Improved Chat Bar
 1812329954  # Radio message retexture
+1236279368  # Better Action Bar & Icons (Numbered Bar & Tiered Blueprints Edition)
 
 
 # Information Display
@@ -129,6 +131,7 @@
 2600581811  # + MPI Fixes
 2554385889  # + More Planet Info: Biome Fix
 3269792617  # Planet Search
+1117985463  # Improved Ship Encounter Descriptions
 3473429375  # Galactic Almanach - Biome Name Display
 
 
@@ -155,6 +158,7 @@
 
 946227505   # DigitalStorage
 1189065705  # ^ HLib
+2920283247  # + DigitalCraftingIndustrialTrams
 2919830263  # DigitalCrafting
 2919826588  # ^ HLibPlus
 2920451118  # DigitalCraftingGrowingTrays
@@ -198,6 +202,13 @@
 1229144124  # Swords Unite: Solarium Saber
 1632807184  # Procedural Katanas
 1453188949  # WEAPON.pak (Energy Swords)
+1403204164  # James's Weapon Packs: Storm Weapons
+1402310488  # James's Weapon Packs: Firey Weapons
+1397494196  # James's Weapon Packs: Dream Pack
+1397722095  # James's Weapon Packs: Laser Weapons
+1397416916  # James's Weapon Packs: Shortswords
+1391887285  # James's Weapon Pack #1
+1409188673  # James's Weapon Packs: The Great Sea
 1514144796  # Violium Fists
 2698975190  # The Forge: Outback Survival Kit
 1992585930  # Randomly Generated Bows
@@ -227,3 +238,24 @@
 2637639946  # + Star Trek Stuff
 2731254952  # + Chef Gear
 2948518200  # + Skittles Bobs n Weaves
+
+
+# Wiring / Rails
+752984918   # Ship hatches wiring fix
+739574452   # Wire I/O Node Position Fixer
+1306162379  # Industrial Elevator
+2863287069  # + Industrial Elevator _ FIXED
+1313146286  # Modern Trams
+2863368151  # + Modern Trams _ with arrows PATCH
+2839006589  # + Faster Modern Tram (from 17 to 38)
+751146375   # Craftable Elevators
+
+
+# Mechs / Vehicles
+3516850077  # Less Awful Mech Drones
+1289681395  # Mech Battery Warning
+1114465299  # Mech Deployment Beacons
+1361830298  # Rubber Boat
+
+
+# Races (and supports)
