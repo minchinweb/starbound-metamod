@@ -17,7 +17,6 @@
 1121701081  # Dynamic Fuel Hatch
 1296666565  # Heartbeat
 1301992771  # Taehl's Teleport Beams
-1703567517  # Balanced Asteroids
 1824175379  # Novakid Codices
 1816413438  # Cut Content - Hiraki Corale Codices
 2799253990  # + Hiraki Corale Codex Tab
@@ -47,6 +46,7 @@
 732371478   # Shadowed Atmospheres
 2419330775  # Peacekeeper Space Station Teleporters
 782825930   # Protector Icons
+1101407919  # Zero G Maneuvering Unit
 
 
 # Cooking / Food / Farming
@@ -96,6 +96,7 @@
 2729175627  # Scientist Shelter Microdungeon
 1186292267  # Dark's Dungeon and Villages
 2380700372  # Less Dead Moons - Moon Dungeons
+1703567517  # Balanced Asteroids
 3476076418  # Belter Dungeons
 2233339365  # Winter Planet Pack
 2587899098  # Overgrown Planets
@@ -105,11 +106,13 @@
 2157200368  # Starry Planets: LEGACY
 2329389933  # Hypothermic Planets
 1390490083  # More NPC Ships
+1660547150  # The Essential Galactic Cruise
 2419330775  # Peacekeeper Space Station Teleporters
 
 
 # Interface
 729422192   # Inventory Interface Redone
+729726478   # Weapon Stats
 740863523   # Legendary Tooltips
 1119086325  # Many Tabs (1/2)
 956247051   # ^ Many Tabs (2/2)
@@ -133,6 +136,8 @@
 3269792617  # Planet Search
 1117985463  # Improved Ship Encounter Descriptions
 3473429375  # Galactic Almanach - Biome Name Display
+3060280131  # Book of Spirits - NPC & Monster Name Displayer
+3471003713  # + Book of Spirits - Patch Project
 
 
 # Instruments
@@ -173,7 +178,6 @@
 
 
 # Weapons
-729726478   # Weapon Stats
 1059492599  # Stolte Inc. Machine Guns
 1330825914  # Stolte Inc. Crossbows
 1162728224  # Stolte Inc. Pulse Rifles
@@ -197,6 +201,7 @@
 2501977021  # The Ol' Schooler
 1399879140  # More Grenade Launchers!
 1344380903  # High Tech Weaponry: Quantum Laser Cannon
+3143833333  # GyroJets!
 1230171460  # Swords Unite: Violium Katana
 1238068032  # Swords Unite: Ferozium Katana
 1229144124  # Swords Unite: Solarium Saber
@@ -210,6 +215,7 @@
 1391887285  # James's Weapon Pack #1
 1409188673  # James's Weapon Packs: The Great Sea
 1514144796  # Violium Fists
+3646266734  # Tacticool Neko Shields
 2698975190  # The Forge: Outback Survival Kit
 1992585930  # Randomly Generated Bows
 776078151   # Flare Gun
@@ -256,6 +262,11 @@
 1289681395  # Mech Battery Warning
 1114465299  # Mech Deployment Beacons
 1361830298  # Rubber Boat
+1377166130  # Rideable Glitch Horse
+1573788423  # FPV Racing Drone
+729433481   # The Yellow Submarine
+1382974058  # The Essential Delorean DMC12 Mod
+729906977   # UT-47 Kodiak Shuttle
 
 
 # Races (and supports)

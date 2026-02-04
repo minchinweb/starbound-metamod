@@ -4,21 +4,21 @@
 
 # FU (core)
 729480149   # Frackin' Universe
-1264107917  # + Frackin' Interface
+1264107917  # + Frackin' Interface (also reskins bk3k's inventory)
 821455287   # + Frackin' Action Bars (x4)
 1240923709  # + Frackin Xmas
 2638453727  #   + Xmas fix
 729492703   # + Frackin' Music
 1563376005  # Shellguard: Starbound Expansion Remastered
 1686763043  # + FU / Shellguard Mech Compatability
+3591740861  # [FU] Portable Water Pump Edits
+3592212427  # + [FU] Blood Drainer Edits
+3592214315  # + [FU] Precursor Beer Generator Edits
+3604185190  # [FU] Precursor Spawner Loot Table Reset (i.e. not just beer)
 
 
-882900100   # bk3k's Inventory
-2799920138  # + BK3K-Various Mods Compatibility
-3032664993  #   + BK3K-Various Mods Compatibility Addon
 731220462   # Enhanced Storage
 2155713859  # + Enhanced Storage Patch
-2512589532  # Stardust Core Lite (aka Quickbar Mini)
 
 730544933   # AnTiHair
 730745660   # AnTiMonster
@@ -38,6 +38,7 @@
 729427436   # Food Stack
 729428280   # Gardenbot2 : Reboot Edition
 2452189268  # Campfire Tab for Kitchen Counters
+1566201532  # FU Tree Crops
 
 
 # Microdungeons / Planet Types
@@ -46,7 +47,10 @@
 
 
 # Interface
-# 3473429375  # Galactic Almanach - Biome Name Display
+882900100   # bk3k's Inventory
+2799920138  # + BK3K-Various Mods Compatibility
+3032664993  #   + BK3K-Various Mods Compatibility Addon
+2512589532  # Stardust Core Lite (aka Quickbar Mini)
 
 
 # Information Display
@@ -57,6 +61,9 @@
 1733755757  # + More Planet Info- Saturnians Addon
 2600581811  # + MPI Fixes
 3269792617  # Planet Search
+3473429375  # Galactic Almanach - Biome Name Display
+3060280131  # Book of Spirits - NPC & Monster Name Displayer
+3471003713  # + Book of Spirits - Patch Project
 
 
 # Instruments
