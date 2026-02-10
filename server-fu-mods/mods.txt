@@ -30,12 +30,15 @@
 # 1774342649  # Healing Tank
 782825930   # Protector Icons
 2602467135  # Glitch Augment (FU Addon)
+932417861   # Basketball Bounce Sphere for Frackin Universe
+2186684477  # Compressed Madness
 
 
 # Cooking / Food / Farming
 1199608652  # Aging Alien Alcohols
 1636723841  # + Aging Alien Alcohol Addon
 729427436   # Food Stack
+1099450875  # Food Spoil Bars
 729428280   # Gardenbot2 : Reboot Edition
 2452189268  # Campfire Tab for Kitchen Counters
 1566201532  # FU Tree Crops
@@ -51,6 +54,9 @@
 2799920138  # + BK3K-Various Mods Compatibility
 3032664993  #   + BK3K-Various Mods Compatibility Addon
 2512589532  # Stardust Core Lite (aka Quickbar Mini)
+737027388   # Enhanced Chat Readability
+1276739133  # Improved Chat Bar
+1589455236  # Better (C) Mods Window
 
 
 # Information Display
