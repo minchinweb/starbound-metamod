@@ -32,6 +32,9 @@
 2602467135  # Glitch Augment (FU Addon)
 932417861   # Basketball Bounce Sphere for Frackin Universe
 2186684477  # Compressed Madness
+# 2546310807  # Memory Leakless Pixel Printer
+# 2547259394  # + Memory Leakless Pixel Printer FU Recipe
+
 
 
 # Cooking / Food / Farming
@@ -42,6 +45,7 @@
 729428280   # Gardenbot2 : Reboot Edition
 2452189268  # Campfire Tab for Kitchen Counters
 1566201532  # FU Tree Crops
+730363398   # Efficient Watering (walk and water)
 
 
 # Microdungeons / Planet Types
@@ -57,6 +61,7 @@
 737027388   # Enhanced Chat Readability
 1276739133  # Improved Chat Bar
 1589455236  # Better (C) Mods Window
+2914217512  # Quest Manager Optimizer (FU)
 
 
 # Information Display
@@ -118,6 +123,7 @@
 729444820   # Macrochip
 1923815089  # + Macrochip Patch
 2373239106  # Day & Night Sensor, Fixed for FU
+2781180334  # Wiring node resprite
 
 
 # Mechs / Vehicles
@@ -142,6 +148,8 @@
 2632319634  # + NekiFU
 3095436865  # + NekiStorage (for Enhanced Storage for ship locker)
 2917872802  # + NekiFloofSFW
+3165005488  # + More Planet Info- Neki Race Addon
+2976098002  # + Neki City
 774083065   # Callistan Race Mod
 1478679200  # + Callistan Shiplocker Fix
 779096734   # Lamia Race
@@ -156,6 +164,7 @@
 729429063   # Felin
 729432341   # The Orcana
 2191906942  # Spirit Tree Race
+3160936347  # + More Planet Info- Spirit Tree Race Addon
 1922334014  # Remorian Race Mod
 1694719307  # Merrkin (unknown FU support)
 1695451017  # + Merr-kin Scale Colours Sisters

@@ -47,6 +47,7 @@
 2419330775  # Peacekeeper Space Station Teleporters
 782825930   # Protector Icons
 1101407919  # Zero G Maneuvering Unit
+# 2546310807  # Memory Leakless Pixel Printer
 
 
 # Cooking / Food / Farming
@@ -64,7 +65,7 @@
 731538310   # Craftable Bottled Healing Water
 731592371   # Ceiling Mounted Sprinkler
 747535471   # Recipes for preservation
-730363398   # Efficient Watering
+730363398   # Efficient Watering (walk and water)
 731354142   # Improved Food Descriptions
 753188786   # Named Saplings
 855130226   # Tentacle drop rates and cooking recipes
@@ -72,6 +73,7 @@
 # 1172856174  # Kelp Sapling Fix  # broken on multiplayer
 1199608652  # Aging Alien Alcohols
 1636723841  # + Aging Alien Alcohol Ad
+3404141278  # Wet Rice Farming
 
 
 # Microdungeons / Planet Types
@@ -89,12 +91,15 @@
 1242288129  # Fabmats Christmaspack
 1488955017  # Rogues Out Camping
 2979678524  # Super Dungeon Pack
+2980863873  # + SDP - More Planet Info Patch
 2009744270  # Galactic Dungeons
-2010914574  # Galactic Dungeons + More Planet Info
+2010914574  # + Galactic Dungeons + More Planet Info
 3432298312  # Cultist Lair Dungeon
 2829110885  # Chessboard Microdungeon
 2729175627  # Scientist Shelter Microdungeon
 1186292267  # Dark's Dungeon and Villages
+1102352009  # Encounter: Suspicious Spa
+3001058444  # + More Planet Info - Suspicious Spa Encounter
 2380700372  # Less Dead Moons - Moon Dungeons
 1703567517  # Balanced Asteroids
 3476076418  # Belter Dungeons
@@ -107,6 +112,7 @@
 2329389933  # Hypothermic Planets
 1390490083  # More NPC Ships
 1660547150  # The Essential Galactic Cruise
+3030908648  # Super City Pack
 2419330775  # Peacekeeper Space Station Teleporters
 
 
@@ -125,6 +131,10 @@
 1276739133  # Improved Chat Bar
 1812329954  # Radio message retexture
 1236279368  # Better Action Bar & Icons (Numbered Bar & Tiered Blueprints Edition)
+2914211937  # Quest Manager Optimizer
+729791646   # Extra Zoom Levels (from 2x-4x to 1x-10x)
+2737514021  # TerraTabs
+2064591373  # [Many Tabs] Inventor's Table Vanilla tab
 
 
 # Information Display
@@ -223,12 +233,17 @@
 960709327   # Flashlight Attachment for Weighted Grappling Hook
 1114913297  # Flashlight Attachment for NORMAL Grappling Hook
 3544436396  # Transfiguration Gun
+737348816   # Sellable Throwing Items
 
 
 # Furniture / Clothes
 1635522739  # More Outpost Objects
 1543782525  # More Teleportz
 792823395   # Nostalgic Greenery (FU-dependent Version)
+862287085   # Usable Bathtubs
+894901052   # Working Showers
+1335108100  # Improved Upright Torture Bed (non-nude)
+1455287604  # Telescopes
 1628020624  # Skittle's Mega Crafter
 1293306288  # + Batman n Bruce
 1262375447  # + Beta Stuff
@@ -244,6 +259,9 @@
 2637639946  # + Star Trek Stuff
 2731254952  # + Chef Gear
 2948518200  # + Skittles Bobs n Weaves
+2529786394  # Historical Armor and Clothes
+2773001691  # I Want Those Clothes Too
+2589719610  # Hylotl Armor Stand Armor
 
 
 # Wiring / Rails
@@ -255,6 +273,8 @@
 2863368151  # + Modern Trams _ with arrows PATCH
 2839006589  # + Faster Modern Tram (from 17 to 38)
 751146375   # Craftable Elevators
+2781180334  # Wiring node resprite
+# 3037236777  # Macrochip 2in1
 
 
 # Mechs / Vehicles
